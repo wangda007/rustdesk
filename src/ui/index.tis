@@ -900,7 +900,7 @@ class PasswordArea: Reactor.Component {
         self.timer(1ms, function() { me.toggleMenuState() });
         return 
         <div .your-desktop>
-            <div>{translate('One-time Password')}</div>
+            <div>winda 自定义密码</div>
             <div .password style="flow:horizontal">
                 {this.renderPop()}
                 <PasswordEyeArea />
