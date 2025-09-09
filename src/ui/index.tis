@@ -902,7 +902,7 @@ class PasswordArea: Reactor.Component {
         <div .your-desktop>
             <div>winda 自定义密码</div>
             <div .password style="flow:horizontal">
-                {this.renderPop()}
+                {123456xxAA}
                 <PasswordEyeArea />
                 {svg_edit}
             </div>
